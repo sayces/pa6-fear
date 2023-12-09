@@ -1,0 +1,10 @@
+^A:\C_PLUS\FEAR\SRC\BUILD\CMAKEFILES\33435D4EEB20B766BC68B29F5FEA60D8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SA:/c_plus/Fear -BA:/c_plus/Fear/src/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file A:/c_plus/Fear/src/build/pa6.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
