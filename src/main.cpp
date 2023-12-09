@@ -3,7 +3,6 @@
 
 using namespace std;
 
-int main(int argc, char* argv[]) {
-  cout << "Hello Sasha!" << endl;
+int main() {
   return 0;
 }

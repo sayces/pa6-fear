@@ -1,0 +1,3 @@
+/Users/arina/Desktop/pa6-soo/pa6-fear/src/build/CMakeFiles/pa6-fear.dir
+/Users/arina/Desktop/pa6-soo/pa6-fear/src/build/CMakeFiles/edit_cache.dir
+/Users/arina/Desktop/pa6-soo/pa6-fear/src/build/CMakeFiles/rebuild_cache.dir

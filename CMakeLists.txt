@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.28 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.27.1 FATAL_ERROR)
 
 project(pa6-fear)
 
-add_executable(pa6-fear main.cpp)
+add_executable(pa6-fear src/main.cpp)
